@@ -36,7 +36,6 @@ DataDigger/DataDigger*.log
 /debug/
 
 # General files
-.gitignore
 *.tmp
 *.bak
 *.bck
